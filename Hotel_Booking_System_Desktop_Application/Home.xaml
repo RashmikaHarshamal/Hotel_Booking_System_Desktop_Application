@@ -1,0 +1,92 @@
+﻿<Window x:Class="desktopapp.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Home" Height="600" Width="900" WindowStartupLocation="CenterScreen"
+        Background="#f7f3f6">
+
+    <Window.Resources>
+        <!-- General Button Style -->
+        <Style x:Key="NavButtonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="8,4"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="Transparent">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <!-- Underline on Hover -->
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="TextBlock.TextDecorations" Value="Underline"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <!-- Logout Button Style with Rounded Corners -->
+        <Style x:Key="LogoutButtonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="#ff9900"/>
+            <!-- Orange color -->
+            <Setter Property="FontSize" Value="16"/>
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="8,4"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Width" Value="100"/>
+            <Setter Property="Height" Value="40"/>
+
+            <!-- Template to create rounded corners -->
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="20">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+
+            <!-- Hover Effect -->
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#e68a00"/>
+                    <!-- Darker orange for hover -->
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <!-- Background Image -->
+        <Grid.Background>
+            <ImageBrush ImageSource="D:\Hotel_Booking_System,\hotel-booking-system\public\image3.jpg"/>
+        </Grid.Background>
+
+        <!-- Navigation Bar -->
+        <DockPanel Background="#ff9900" Height="60" VerticalAlignment="Top">
+            <!-- Orange color -->
+            <!-- Logo and Title -->
+            <TextBlock Text="LifeClinic" Foreground="White" FontSize="22" FontWeight="Bold" 
+                       VerticalAlignment="Center" Margin="20,0,0,0"/>
+
+            <!-- Navigation Buttons -->
+            <StackPanel DockPanel.Dock="Right" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,20,0">
+                <Button Content="Home" Style="{StaticResource NavButtonStyle}"/>
+                <Button Content="Booking" Style="{StaticResource NavButtonStyle}" Click="Booking_Click"/>
+                <Button Content="My Appointment" Style="{StaticResource NavButtonStyle}" Click="MyAppointment_Click"/>
+
+                <!-- Logout Button (Styled) -->
+                <Button Content="Logout" Style="{StaticResource LogoutButtonStyle}" Click="Logout_Click"/>
+            </StackPanel>
+        </DockPanel>
+    </Grid>
+</Window>

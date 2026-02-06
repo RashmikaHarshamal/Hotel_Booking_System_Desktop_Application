@@ -1,0 +1,543 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\addform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\addform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\available.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\available.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\adminhomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\adminhomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\myappointment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\myappointment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\createaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\createaccount.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\booking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\booking.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\booked.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\booked.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\adminlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\adminlogin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\adminhomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\adminhomepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\admindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\admindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\addform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\addform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\adminlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\adminlogin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\available.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\available.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\choice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\createaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\createaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\booked.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\booked.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\booking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\booking.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\myappointment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\myappointment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\migrations\\20250805221231_hotel_desktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\migrations\\20250805221231_hotel_desktop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\migrations\\20250805220401_hotel_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\migrations\\20250805220401_hotel_booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|d:\\projects\\hotel_booking_system_desktop_application\\hotel_booking_system_desktop_application\\migrations\\20250805215439_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED0EFB89-EEF9-4F25-B618-225A4ABCBBCB}|Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application.csproj|solutionrelative:hotel_booking_system_desktop_application\\migrations\\20250805215439_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Home.xaml.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Home.xaml.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Home.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:23:54.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Home.xaml",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Home.xaml",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Home.xaml",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-05T22:18:36.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:32:17.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyAppointment.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\MyAppointment.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\MyAppointment.xaml.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\MyAppointment.xaml.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\MyAppointment.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA3wDwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:24:34.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Update.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Update.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Update.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Update.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:52:31.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddForm.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AddForm.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\AddForm.xaml.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AddForm.xaml.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\AddForm.xaml.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAMwGAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:20:19.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Available.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Available.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Available.xaml.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Available.xaml.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Available.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAWwEgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:22:07.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminHomepage.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AdminHomepage.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\AdminHomepage.xaml.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AdminHomepage.xaml.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\AdminHomepage.xaml.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAD4v2gAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:20:57.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\DataDbContext.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\DataDbContext.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\DataDbContext.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\DataDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:51:50.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateAccount.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\CreateAccount.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\CreateAccount.xaml.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\CreateAccount.xaml.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\CreateAccount.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDAAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:23:22.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Booking.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Booking.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Booking.xaml.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Booking.xaml.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Booking.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwDsAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:22:58.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Booked.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Booked.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Booked.xaml.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Booked.xaml.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Booked.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:22:33.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AssemblyInfo.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T07:05:52.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminHomepage.xaml",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AdminHomepage.xaml",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\AdminHomepage.xaml",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AdminHomepage.xaml",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\AdminHomepage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-05T22:15:14.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Admindata.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Admindata.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Admindata.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Admindata.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Admindata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:53:18.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddForm.xaml",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AddForm.xaml",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\AddForm.xaml",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AddForm.xaml",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\AddForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-05T22:14:31.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminLogin.xaml",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AdminLogin.xaml",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\AdminLogin.xaml",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AdminLogin.xaml",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\AdminLogin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-05T22:15:52.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminLogin.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AdminLogin.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\AdminLogin.xaml.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\AdminLogin.xaml.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\AdminLogin.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwB8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:21:39.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Available.xaml",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Available.xaml",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Available.xaml",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Available.xaml",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Available.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-05T22:16:30.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Booked.xaml",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Booked.xaml",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Booked.xaml",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Booked.xaml",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Booked.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-05T22:16:57.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Choice.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Choice.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Choice.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Choice.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Choice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:52:52.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateAccount.xaml",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\CreateAccount.xaml",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\CreateAccount.xaml",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\CreateAccount.xaml",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\CreateAccount.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-05T22:17:52.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Booking.xaml",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Booking.xaml",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Booking.xaml",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Booking.xaml",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Booking.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-05T22:17:21.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\MainWindow.xaml",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\MainWindow.xaml",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-05T21:32:22.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MyAppointment.xaml",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\MyAppointment.xaml",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\MyAppointment.xaml",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\MyAppointment.xaml",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\MyAppointment.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-05T22:19:35.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\App.xaml.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\App.xaml.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:25:40.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\App.xaml",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\App.xaml",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\App.xaml",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-05T21:32:42.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\User.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\User.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\User.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:52:17.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250805221231_Hotel_Desktop.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Migrations\\20250805221231_Hotel_Desktop.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Migrations\\20250805221231_Hotel_Desktop.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Migrations\\20250805221231_Hotel_Desktop.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Migrations\\20250805221231_Hotel_Desktop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:12:31.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250805220401_Hotel_Booking.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Migrations\\20250805220401_Hotel_Booking.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Migrations\\20250805220401_Hotel_Booking.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Migrations\\20250805220401_Hotel_Booking.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Migrations\\20250805220401_Hotel_Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T22:04:01.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20250805215439_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Migrations\\20250805215439_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Hotel_Booking_System_Desktop_Application\\Migrations\\20250805215439_InitialCreate.cs",
+              "ToolTip": "D:\\Projects\\Hotel_Booking_System_Desktop_Application\\Hotel_Booking_System_Desktop_Application\\Migrations\\20250805215439_InitialCreate.cs",
+              "RelativeToolTip": "Hotel_Booking_System_Desktop_Application\\Migrations\\20250805215439_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T21:54:39.995Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 229,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
